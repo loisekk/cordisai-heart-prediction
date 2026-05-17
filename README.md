@@ -78,7 +78,6 @@ cordisai-heart-prediction/
 ```
 
 ---
-![CordisAI Demo](assets/Heart_disease_look.gif)
 
 ## ⚙️ Installation
 
