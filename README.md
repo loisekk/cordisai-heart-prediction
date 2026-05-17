@@ -1,6 +1,6 @@
 <div align="center">
 
-![CordisAI Demo](20260517-1349-21_5167609.gif)
+![CordisAI Demo](Heart_disease_look.gif)
 
 # 🫀 CordisAI
 
