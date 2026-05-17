@@ -23,6 +23,7 @@
 **CordisAI** transforms raw patient vitals and clinical findings into an interpretable heart disease risk score. Designed with a dark medical-grade UI, it brings together machine learning and interactive data visualization into a single, production-quality Streamlit app.
 
 ---
+![CordisAI Demo](assets/Heart_disease_look.gif)
 
 ## 🚀 Features
 
